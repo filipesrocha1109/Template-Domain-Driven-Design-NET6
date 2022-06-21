@@ -10,6 +10,6 @@ Template for Applications .NET 6 DDD
 
 - Create a new Project
 
-- Click in 'Domain Drive Design NET6'
+- Click in 'Domain Driven Design NET6'
 
 
